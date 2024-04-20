@@ -8,5 +8,5 @@ Emojis are highly useful for text analysis. One of the most comprehensive resour
 
 >EmojiTerra. Unicode Code Points. Retrieved April 21, 2024, from https://emojiterra.com/blog/code-points/
 
-# Acknowledgments
+# Acknowledgment
 Thanks to [Hasri Akbar Awal Rozaq](https://github.com/akbarrozaq691) for the discussions.

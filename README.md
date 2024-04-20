@@ -1,2 +1,2 @@
-
+# Turkish-Emoji
 Emojis and emoticons are highly useful for text analysis. One of the most comprehensive resources for these symbols is provided by EmojiTerra, available at [EmojiTerra](https://emojiterra.com/blog/code-points/), which includes detailed Unicode Code Points for each symbol. However, this resource does not include translations for Turkish. In this document, we offer Turkish translations for all the emojis and emoticons listed by EmojiTerra, thereby enhancing the utility of this dataset for Turkish language applications.

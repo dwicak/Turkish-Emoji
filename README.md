@@ -4,4 +4,4 @@ Emojis and emoticons are highly useful for text analysis. One of the most compre
 For the citation:
 >Wicaksono, Darmawan. 2024. “Turkish-Emoji (translation).”
 
->EmojiTerra. Emoji + Unicode CLDR Short Name + Unicode Code Point(s). Retrieved April 21, 2024, from https://emojiterra.com/blog/code-points/
+>EmojiTerra. Unicode Code Points. Retrieved April 21, 2024, from https://emojiterra.com/blog/code-points/

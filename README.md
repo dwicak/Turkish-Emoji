@@ -3,7 +3,10 @@ Emojis and emoticons are highly useful for text analysis. One of the most compre
 
 ![emojis](https://github.com/dwicak/Turkish-Emoji/blob/b7ecf27de3abcd47a32329564c3499bc7a914d42/Emojis.png)
 
-For the citation:
+# Citation
 >Wicaksono, Darmawan. 2024. “Turkish-Emoji (translation).”
 
 >EmojiTerra. Unicode Code Points. Retrieved April 21, 2024, from https://emojiterra.com/blog/code-points/
+
+# Acknowledgments
+Thanks to [Hasri Akbar Awal Rozaq](https://github.com/akbarrozaq691) for the discussions.

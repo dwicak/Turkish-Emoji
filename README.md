@@ -1,7 +1,7 @@
 # Turkish-Emoji (translation)
 Emojis and emoticons are highly useful for text analysis. One of the most comprehensive resources for these symbols is provided by EmojiTerra, available at [EmojiTerra](https://emojiterra.com/blog/code-points/), which includes detailed Unicode Code Points for each symbol. However, this resource does not include translations for Turkish. Here, we offer Turkish translations for all the emojis and emoticons listed by EmojiTerra, thereby enhancing the utility of this dataset for Turkish language applications.
 
-/assets/images/Emojis.png
+https://github.com/dwicak/Turkish-Emoji/blob/b7ecf27de3abcd47a32329564c3499bc7a914d42/Emojis.png
 
 For the citation:
 >Wicaksono, Darmawan. 2024. “Turkish-Emoji (translation).”

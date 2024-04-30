@@ -1,4 +1,4 @@
-April 21, 20204
+April 21, 2024
 
 # Turkish-Emoji (translation)
 Emojis are highly useful for text analysis. One of the most comprehensive resources for these symbols is provided by [EmojiTerra](https://emojiterra.com/blog/code-points/), which includes detailed Unicode Code Points for each symbol. However, this resource does not include translations for Turkish. Here, we offer Turkish translations for all the emojis, thereby enhancing the utility of this dataset for Turkish language applications.

@@ -8,7 +8,7 @@ Emojis are highly useful for text analysis. One of the most comprehensive resour
 # Citation
 >Wicaksono, Darmawan. 2024. “Turkish-Emoji (translation).”
 
->EmojiTerra. Unicode Code Points. Retrieved April 21, 2024, from https://emojiterra.com/blog/code-points/
+>EmojiTerra. 2024. Unicode Code Points. Retrieved April 21, 2024. (https://emojiterra.com/blog/code-points/)
 
 # Acknowledgment
 Thanks to [Hasri Akbar Awal Rozaq](https://github.com/akbarrozaq691) for the discussions.

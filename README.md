@@ -6,7 +6,7 @@ Emojis are highly useful for text analysis. One of the most comprehensive resour
 ![emojis](https://github.com/dwicak/Turkish-Emoji/blob/b7ecf27de3abcd47a32329564c3499bc7a914d42/Emojis.png)
 
 # Citation
->Wicaksono, Darmawan. 2024. “Turkish-Emoji (translation).”
+>Wicaksono, D. (2022). TurkishSentiment-Words: List of positive and negative words in Turkish [Dataset]. https://github.com/dwicak/TurkishSentiment-Words.”
 
 >EmojiTerra. 2024. Unicode Code Points. Retrieved April 21, 2024. (https://emojiterra.com/blog/code-points/)
 
